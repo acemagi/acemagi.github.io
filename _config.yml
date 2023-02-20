@@ -1,11 +1,11 @@
 # Site settings
-title: morten.lol
+title: christopher chow
 description: My personal website
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: chris chow
+username: christopher chow
 user_description: kdb+, C++, algorithmic trading
 user_title: kdb+, C++, algorithmic trading
 twitter_username: mortensorensen
